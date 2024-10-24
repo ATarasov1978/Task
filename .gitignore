@@ -1,0 +1,29 @@
+###############
+# Directories #
+###############
+.nuget
+.vs
+
+
+**/node_modules
+**/obj
+**/bin
+**/Debug
+**/Content/logs
+
+###################
+# compiled source #
+###################
+*.user
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+.idea/
+**/wwwroot/**/static
+**/wwwroot/**/js/**
+**/wwwroot/**/css/**
